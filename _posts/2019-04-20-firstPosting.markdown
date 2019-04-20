@@ -9,6 +9,8 @@ categories: jekyll update
 첫번째 푸쉬는 성공을 했는데...
 왜 두번째 수정후 푸쉬가 말을 안듣네, 뭐지? 해결하고 싶다. 
 
+음음음 commit 다시 한 번 해서 수정된 거 push가 되는지 확인해보자
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
