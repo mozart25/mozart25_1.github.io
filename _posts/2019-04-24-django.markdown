@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "나의 첫번째 블로그 생성기"
+title:  "django를 정리해보자"
 date:   2019-04-24 20:30:57 +0900
 categories: jekyll update
 ---
