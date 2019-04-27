@@ -5,18 +5,37 @@ date:   2019-04-27 22:26:00
 categories: jekyll update
 ---
 
-지금까지 이런적은 없었다.<br>
-지하철에서 계속 markdown 사용법을 검색해 보았습니다. 목적은 블로그의 가독서을 높임과 동시에 전달력을 높이기 위함입니다.
+수정할 부분이 많은 하루입니다.<br>
+지하철에서 계속 markdown 사용법을 검색해 보았습니다. 목적은 블로그의 가독성을 높임과 동시에 전달력을 높이기 위함입니다.
 
+블로그 작성중에 가장 문제가 되는 부분은 "ㅇ"이라는 문자가 중복 입력이 되어서 수정 및 삭제가 귀찮다는 점입니다.<br>
+이런 불편함을 감수하고 금일 markdown에 대한 부분을 정리해 보고자 합니다.<br>
+
+markdown 사용법에 앞서서, 제가 놓치고 있었던 부분에 대한 설명을 드리고자 합니다.<br>
+바로, 로컬 서버에서 수정사항을 바로바로 확인할 수 있었던 점입니다..
+
+'''
+# change into root directory
+cd myblog
+
+# build the site and make it on a local server 
+bundle exec jekyll serve 
+'''
+
+
+가장 먼저 설명드리고 싶은 것은 자동 줄 띄움입니다. 
+so i would like to 
 '''html
 <br>
 '''
+```j
+
 
 
 # 이번 블로그는 터미널에서 tree를 사용하는 법입니다.
 그래서.. 이렇게dlfkdsfjldf<br>
 ```js
-let a = 2;
+let a = 2ㅑㅑㅑ;
 ```
 
 ```python
